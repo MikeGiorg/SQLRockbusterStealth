@@ -14,3 +14,4 @@
 <p>Using SQL, I extracted, transformed, and analyzed data from the company's database to address these questions.</p>
 <h2>Conclusion</h2>
 <p>The analysis provided actionable insights to guide Rockbuster Stealth's online rental strategy. The presentation and SQL scripts included demonstrate the comprehensive approach taken to inform the company's decisions.</p>
+<a href="https://public.tableau.com/app/profile/michele.giorgetta/viz/Rockbuster_17160356204150/Story2">Tableau Rockbuster Presentation</a>
